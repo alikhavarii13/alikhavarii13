@@ -59,7 +59,7 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=alikhavarii13&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://github-readme-streak-stats-pi-flax-96.vercel.app?user=alikhavarii13&theme=dark"  />
 </div>
 
 ###
